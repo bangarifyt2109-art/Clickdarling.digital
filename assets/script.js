@@ -104,7 +104,7 @@ Saya mau pesan undangan
 
 <!-- harga -->
 <div class="text-center text-[#ee4d2d] text-base font-bold mt-1 mb-3">
-  Rp95.000 - Rp195.000
+  Rp100.000 - Rp195.000
 </div>
 
 <!-- tombol -->
